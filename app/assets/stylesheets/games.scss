@@ -1,0 +1,21 @@
+// Place all the styles related to the games controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+.blue-blocks {
+  background-color: #3497DB;
+  padding: 20px;
+  margin: 10px;
+  color: white;
+  display: flex;
+  width: 30px;
+  height: 30px;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+  font-family: slab-serif;
+}
+
+ul {
+  list-style-type: none;
+  display: flex;
+}
